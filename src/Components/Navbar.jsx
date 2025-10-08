@@ -6,7 +6,7 @@ import logo from "../assets/logo.png";
 const Navbar = () => {
   return (
     <div>
-      <div className="navbar max-w-screen-2xl w-full mx-auto px-4 md:px-8 lg:px-12">
+      <div className="navbar screen-w">
         <div className="navbar-start">
           <div className="dropdown">
             <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -41,10 +41,19 @@ const Navbar = () => {
               </li>
             </ul>
           </div>
-          <Link to="/" className="flex gap-1 items-center text-xl">
+          <NavLink
+            to="/"
+            className={({ isActive }) =>
+              `flex gap-1 items-center text-xl font-semibold transition ${
+                isActive
+                  ? "text-transparent bg-clip-text bg-gradient-to-r from-[#632EE3] to-[#9F62F2]"
+                  : "text-gray-800 hover:text-[#632EE3]"
+              }`
+            }
+          >
             <img className="w-8 h-8" src={logo} alt="logo" />
             HERO.IO
-          </Link>
+          </NavLink>
         </div>
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1">
