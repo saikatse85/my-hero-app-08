@@ -6,27 +6,38 @@ import star from "/star.png";
 import like from "/like.png";
 import { ToastContainer, toast } from "react-toastify";
 import RatingChart from "../Components/RatingChart";
+import ErrorPage from "./ErrorPage";
+import SkeletonLoader from "../Components/SkeletonLoader";
 
 const AppDetails = () => {
   const { apps, loading } = useApps();
   const { id } = useParams();
   const [installed, setInstalled] = useState(false);
   if (loading) {
-    return <p className="text-center text-gray-500 py-10">Loading...</p>;
+    return <SkeletonLoader />;
   }
   const app = apps.find((ap) => ap.id === parseInt(id));
   if (!app) {
     return (
       <p className="text-center text-red-500 py-10 font-semibold">
-        🚫 App not found!
+        <ErrorPage />
       </p>
     );
   }
-  console.log(app);
   const { title, image, description, size } = app || {};
   const handleInstalled = () => {
+    const existingInstalled = JSON.parse(localStorage.getItem("installed"));
     setInstalled(true);
     toast(`✅${title} Installed successfully`);
+    let updateInstalled = [];
+    if (existingInstalled) {
+      const isDuplicate = existingInstalled.some((a) => a.id === app.id);
+      if (isDuplicate) return toast.info("Already Installed");
+      updateInstalled = [...existingInstalled, app];
+    } else {
+      updateInstalled.push(app);
+    }
+    localStorage.setItem("installed", JSON.stringify(updateInstalled));
   };
 
   return (

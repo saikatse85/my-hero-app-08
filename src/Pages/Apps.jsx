@@ -3,6 +3,8 @@ import useApps from "../Hooks/useApps";
 import AppsCard from "../Components/AppsCard";
 import { FcSearch } from "react-icons/fc";
 import { Link } from "react-router";
+import SkeletonLoader from "../Components/SkeletonLoader";
+import ErrorPage from "./ErrorPage";
 
 const Apps = () => {
   const { apps, loading, error } = useApps();
@@ -12,7 +14,7 @@ const Apps = () => {
     ? apps.filter((app) => app.title.toLocaleLowerCase().includes(searchValue))
     : apps;
   if (loading) {
-    return <p className="text-center py-10 text-gray-500">Loading apps...</p>;
+    return <SkeletonLoader />;
   }
 
   if (error) {
@@ -49,9 +51,7 @@ const Apps = () => {
       </div>
       {searchedApps.length === 0 ? (
         <div className="text-center pb-42">
-          <p className="text-center text-gray-500 text-5xl font-bold py-16">
-            🚫 No Apps Found.
-          </p>
+          <ErrorPage />
           <Link
             to="/app"
             className="btn bg-gradient-to-tr from-[#632EE3] to-[#9F62F2] text-white"
@@ -61,9 +61,13 @@ const Apps = () => {
         </div>
       ) : (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 screen-w py-4 md:py-8 lg:py-8">
-          {searchedApps.map((app) => (
-            <AppsCard key={app.id} app={app}></AppsCard>
-          ))}
+          {loading ? (
+            <SkeletonLoader />
+          ) : (
+            searchedApps.map((app) => (
+              <AppsCard key={app.id} app={app}></AppsCard>
+            ))
+          )}
         </div>
       )}
     </div>

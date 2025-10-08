@@ -33,7 +33,6 @@ const RatingChart = () => {
     );
   }
   const ratings = app.ratings;
-  console.log(ratings);
 
   return (
     <div>
