@@ -1,0 +1,363 @@
+[
+      {
+    "id": 1,
+    "title": "FocusMate - Productivity Timer",
+    "companyName": "ZenSoft Labs",
+    "image": "../src/assets/demo-app (1).webp",
+    "size": 48,
+    "reviews": 1250,
+    "ratingAvg": 4.6,
+    "downloads": 540000,
+    "description": "FocusMate is a modern productivity app designed to help you master your time and focus better through scientifically proven methods like the Pomodoro technique. Whether you are studying for exams, writing code, or working on a creative project, FocusMate allows you to structure your time into manageable focus intervals. You can set custom session lengths, short and long breaks, and receive motivational reminders between cycles. The interface is intentionally minimalistic — clean timers, soft color transitions, and calming background sounds create a distraction-free experience. What makes FocusMate truly powerful is its analytics dashboard: it tracks every session, shows you weekly and monthly trends, and helps you understand your peak performance hours. For teams and students, there’s a collaboration feature that lets you share progress and stay accountable with friends or co-workers. You can also sync data across multiple devices using secure cloud storage. Offline mode ensures that even if you’re disconnected, your session data is stored locally and updated later. The app respects privacy — no unnecessary permissions or tracking. Frequent updates add new focus sounds, customization themes, and community challenges that make staying consistent more fun. With over 500,000 users worldwide, FocusMate is not just a timer — it’s a lifestyle improvement tool that trains your mind to stay disciplined and goal-oriented. Whether you’re a freelancer, remote worker, or student, FocusMate is your personal companion for deep work and stress-free productivity.",
+    "ratings": [
+      { "name": "1 star", "count": 45 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 140 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 655 }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "BeatFlow - Music Player",
+    "companyName": "Soundify Inc.",
+    "image": "../src/assets/demo-app (2).webp",
+    "size": 72,
+    "reviews": 980,
+    "ratingAvg": 4.3,
+    "downloads": 890000,
+    "description": "BeatFlow is a next-generation music player that combines simplicity, speed, and personalization into one elegant experience. The app lets you stream, organize, and enjoy your favorite music both online and offline with lossless quality. You can create smart playlists based on your mood, activity, or weather, thanks to its adaptive AI engine. The beautifully designed interface ensures smooth navigation, while the dynamic equalizer gives you total control over sound output. BeatFlow supports all major file formats, including MP3, FLAC, and WAV, making it perfect for audiophiles. A powerful recommendation algorithm curates new tracks daily based on your listening history. For users who love social features, BeatFlow allows you to share playlists, follow artists, and connect with music communities worldwide. The lyrics sync feature ensures you never miss a word of your favorite song. There’s also a ‘Focus Mode’ that removes visual distractions when you just want to enjoy the sound. With customizable themes, album artwork support, and a clean minimal interface, BeatFlow is both functional and visually stunning. Battery optimization ensures long listening sessions without draining your device. Every update brings new filters, visualizers, and transitions that make listening to music more immersive. BeatFlow isn’t just a player — it’s your personal DJ, companion, and sound explorer all in one. Whether you’re commuting, studying, or working out, BeatFlow makes sure your soundtrack never stops.",
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 85 },
+      { "name": "3 star", "count": 170 },
+      { "name": "4 star", "count": 280 },
+      { "name": "5 star", "count": 385 }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "FitTrack - Health & Fitness",
+    "companyName": "ActiveMotion",
+    "image": "../src/assets/demo-app (3).webp",
+    "size": 95,
+    "reviews": 2100,
+    "ratingAvg": 4.8,
+    "downloads": 1200000,
+    "description": "FitTrack is a comprehensive health and fitness companion built to help users transform their lifestyle through data-driven insights and smart goal setting. It integrates seamlessly with your smartphone and wearable devices to monitor daily activities such as steps, heart rate, calories burned, and sleep quality. Using AI algorithms, FitTrack analyzes your data and provides personalized workout plans tailored to your fitness level and objectives. Whether your goal is to lose weight, build muscle, or simply stay active, FitTrack adjusts your plan dynamically to match your progress. The app features hundreds of guided video workouts, from high-intensity interval training to yoga and mindfulness sessions. Each exercise includes detailed instructions and form correction tips to ensure safety and effectiveness. FitTrack also includes nutrition tracking — scan barcodes, log meals, and view your macronutrient balance in real time. The hydration tracker reminds you to drink enough water throughout the day, while the built-in motivation coach offers encouragement based on your daily performance. The social section lets you join global challenges, compete with friends, and earn badges as you hit milestones. With an elegant interface, dark and light themes, and smooth animations, FitTrack makes fitness enjoyable and consistent. Offline mode ensures you can track workouts anywhere, and the app syncs data automatically when you reconnect. FitTrack is more than just an app — it’s a complete lifestyle system designed to keep your body strong, your mind focused, and your habits consistent. From morning runs to evening meditations, FitTrack helps you stay in control of your health journey every step of the way.",
+    "ratings": [
+      { "name": "1 star", "count": 35 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 1535 }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "PhotoFix - AI Image Enhancer",
+    "companyName": "PixelForge Labs",
+    "image": "../src/assets/demo-app (4).webp",
+    "size": 88,
+    "reviews": 1860,
+    "ratingAvg": 4.7,
+    "downloads": 980000,
+    "description": "PhotoFix is a revolutionary AI-powered photo enhancement app that transforms your images instantly with just one tap. Using state-of-the-art machine learning models, it can fix blurry shots, remove noise, enhance colors, and even restore old or damaged photographs. The app’s smart correction engine understands lighting, texture, and depth to deliver natural results that retain the photo’s authenticity. Whether you’re editing a selfie, landscape, or portrait, PhotoFix optimizes each pixel for professional-quality output. The intuitive interface makes editing effortless — simply upload an image and choose from auto-enhance, skin smooth, sharpen, and HDR boost options. You can also adjust brightness, contrast, saturation, and temperature manually for finer control. The background remover and object eraser tools work with remarkable precision, allowing you to replace skies or delete unwanted people in seconds. A built-in filter marketplace lets you download new effects weekly, from cinematic tones to vintage film styles. Offline processing ensures your private photos never leave your device, maintaining full privacy. Cloud backup allows users to store edited versions safely. With continuous AI updates, PhotoFix gets smarter with every release, learning from millions of user edits to improve its accuracy. Professional photographers love its batch processing mode, while casual users enjoy the one-tap magic fix. It supports RAW images and exports in multiple resolutions up to 8K. Whether you're posting on Instagram or archiving family memories, PhotoFix ensures your pictures always look their best — sharp, vibrant, and full of life.",
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 65 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 420 },
+      { "name": "5 star", "count": 1205 }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "NewsHub - Smart Reader",
+    "companyName": "InfoNow",
+    "image": "../src/assets/demo-app (5).webp",
+    "size": 41,
+    "reviews": 890,
+    "ratingAvg": 4.2,
+    "downloads": 480000,
+    "description": "NewsHub is a personalized news reader that curates articles from thousands of trusted sources across the globe. The app leverages AI algorithms to understand your reading habits and delivers a news feed tailored specifically to your interests. Whether you want local updates, global politics, technology breakthroughs, or entertainment news, NewsHub ensures you never miss important stories. The app supports offline reading, allowing you to save articles for later, and it features adjustable font sizes, night mode, and high-contrast options for a comfortable reading experience. In addition to curated feeds, NewsHub allows you to follow specific topics, authors, and publications, creating a custom reading ecosystem. Real-time notifications ensure you are updated on breaking news, while in-depth analytics show your reading patterns and engagement levels. The app also offers audio narration for articles, perfect for users on the go. Privacy is a top priority: NewsHub does not track your personal data or share your reading habits. Social integration lets you share articles seamlessly with friends and colleagues. Frequent content updates, clean UI, and fast performance make NewsHub a top choice for anyone seeking a comprehensive, intelligent, and immersive news experience.",
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 160 },
+      { "name": "4 star", "count": 270 },
+      { "name": "5 star", "count": 290 }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Learnify - Skill Builder",
+    "companyName": "Eduverse",
+    "image": "../src/assets/demo-app (6).webp",
+    "size": 120,
+    "reviews": 3900,
+    "ratingAvg": 4.9,
+    "downloads": 3100000,
+    "description": "Learnify is a comprehensive learning platform that empowers users to acquire new skills at their own pace, from anywhere in the world. The app offers thousands of courses spanning topics such as programming, design, marketing, business, and personal development. Each course is delivered via bite-sized videos, interactive quizzes, and practical exercises to reinforce knowledge retention. Learnify’s intelligent recommendation engine tracks your progress, identifies strengths and weaknesses, and suggests courses that match your goals. Offline mode enables learning without internet connectivity, while cloud syncing ensures progress is saved across devices. The platform supports certificates and badges for course completion, motivating users to achieve milestones. Additionally, Learnify includes a vibrant community where learners can ask questions, collaborate on projects, and get mentorship from experts. The interface is designed for clarity, accessibility, and ease of navigation. Continuous updates introduce new courses, interactive features, and AI-powered tutoring. Whether you’re a student, professional, or hobbyist, Learnify provides an immersive and structured learning experience that transforms knowledge into practical skills, boosting both personal and professional growth.",
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 130 },
+      { "name": "3 star", "count": 240 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 2930 }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "GuardX - Mobile Security",
+    "companyName": "CyberShield",
+    "image": "../src/assets/demo-app (1).webp",
+    "size": 65,
+    "reviews": 2200,
+    "ratingAvg": 4.5,
+    "downloads": 1750000,
+    "description": "GuardX is a robust mobile security application designed to protect your device against malware, phishing attempts, and unauthorized access. The app features real-time virus scanning, app permission monitoring, and Wi-Fi security alerts to ensure your data is safe. It also includes anti-theft functionalities such as device tracking, remote lock, and alarm triggers in case of theft or loss. GuardX’s intelligent threat detection engine updates frequently with the latest virus definitions and leverages AI to predict potential risks before they compromise your device. The app also features a privacy advisor that highlights apps accessing sensitive information, and it provides recommendations to restrict unwanted permissions. With a sleek interface and minimal impact on device performance, GuardX ensures security without slowing down your phone. Users can customize scanning schedules, view detailed reports, and receive proactive notifications about suspicious activity. The app includes a VPN feature for secure internet browsing, protecting your data on public networks. GuardX is ideal for both casual users and professionals who require a high level of mobile security and peace of mind. Regular updates, continuous AI improvements, and responsive customer support make GuardX a reliable and comprehensive solution for modern mobile protection.",
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 110 },
+      { "name": "3 star", "count": 260 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1140 }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "NewsHub - Smart Reader",
+    "companyName": "InfoNow",
+    "image": "../src/assets/demo-app (2).webp",
+    "size": 41,
+    "reviews": 890,
+    "ratingAvg": 4.2,
+    "downloads": 480000,
+    "description": "NewsHub is a personalized news reader that curates articles from thousands of trusted sources across the globe. The app leverages AI algorithms to understand your reading habits and delivers a news feed tailored specifically to your interests. Whether you want local updates, global politics, technology breakthroughs, or entertainment news, NewsHub ensures you never miss important stories. The app supports offline reading, allowing you to save articles for later, and it features adjustable font sizes, night mode, and high-contrast options for a comfortable reading experience. In addition to curated feeds, NewsHub allows you to follow specific topics, authors, and publications, creating a custom reading ecosystem. Real-time notifications ensure you are updated on breaking news, while in-depth analytics show your reading patterns and engagement levels. The app also offers audio narration for articles, perfect for users on the go. Privacy is a top priority: NewsHub does not track your personal data or share your reading habits. Social integration lets you share articles seamlessly with friends and colleagues. Frequent content updates, clean UI, and fast performance make NewsHub a top choice for anyone seeking a comprehensive, intelligent, and immersive news experience.",
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 160 },
+      { "name": "4 star", "count": 270 },
+      { "name": "5 star", "count": 290 }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Learnify - Skill Builder",
+    "companyName": "Eduverse",
+    "image": "../src/assets/demo-app (3).webp",
+    "size": 120,
+    "reviews": 3900,
+    "ratingAvg": 4.9,
+    "downloads": 3100000,
+    "description": "Learnify is a comprehensive learning platform that empowers users to acquire new skills at their own pace, from anywhere in the world. The app offers thousands of courses spanning topics such as programming, design, marketing, business, and personal development. Each course is delivered via bite-sized videos, interactive quizzes, and practical exercises to reinforce knowledge retention. Learnify’s intelligent recommendation engine tracks your progress, identifies strengths and weaknesses, and suggests courses that match your goals. Offline mode enables learning without internet connectivity, while cloud syncing ensures progress is saved across devices. The platform supports certificates and badges for course completion, motivating users to achieve milestones. Additionally, Learnify includes a vibrant community where learners can ask questions, collaborate on projects, and get mentorship from experts. The interface is designed for clarity, accessibility, and ease of navigation. Continuous updates introduce new courses, interactive features, and AI-powered tutoring. Whether you’re a student, professional, or hobbyist, Learnify provides an immersive and structured learning experience that transforms knowledge into practical skills, boosting both personal and professional growth.",
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 130 },
+      { "name": "3 star", "count": 240 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 2930 }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "GuardX - Mobile Security",
+    "companyName": "CyberShield",
+    "image": "../src/assets/demo-app (4).webp",
+    "size": 65,
+    "reviews": 2200,
+    "ratingAvg": 4.5,
+    "downloads": 1750000,
+    "description": "GuardX is a robust mobile security application designed to protect your device against malware, phishing attempts, and unauthorized access. The app features real-time virus scanning, app permission monitoring, and Wi-Fi security alerts to ensure your data is safe. It also includes anti-theft functionalities such as device tracking, remote lock, and alarm triggers in case of theft or loss. GuardX’s intelligent threat detection engine updates frequently with the latest virus definitions and leverages AI to predict potential risks before they compromise your device. The app also features a privacy advisor that highlights apps accessing sensitive information, and it provides recommendations to restrict unwanted permissions. With a sleek interface and minimal impact on device performance, GuardX ensures security without slowing down your phone. Users can customize scanning schedules, view detailed reports, and receive proactive notifications about suspicious activity. The app includes a VPN feature for secure internet browsing, protecting your data on public networks. GuardX is ideal for both casual users and professionals who require a high level of mobile security and peace of mind. Regular updates, continuous AI improvements, and responsive customer support make GuardX a reliable and comprehensive solution for modern mobile protection.",
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 110 },
+      { "name": "3 star", "count": 260 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1140 }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Wanderly - Travel Planner",
+    "companyName": "TravelSmart",
+    "image": "../src/assets/demo-app (5).webp",
+    "size": 88,
+    "reviews": 1680,
+    "ratingAvg": 4.5,
+    "downloads": 950000,
+    "description": "Wanderly is a full-featured travel planning app that helps users plan, book, and manage trips effortlessly. The app provides AI-powered itinerary suggestions based on your preferences, travel history, and seasonal recommendations. Wanderly includes hotel and flight booking integrations, offline maps, currency converters, and local guides for destinations worldwide. Users can share their travel plans with friends and family, collaborate on activities, and receive real-time updates about delays, weather, and nearby attractions. The app also provides detailed cost estimates, allowing travelers to budget effectively. With a clean, intuitive interface, Wanderly makes trip management simple and fun. Its social feed lets users explore travel inspiration, tips, and experiences from other globetrotters. The app supports push notifications for upcoming trips, check-ins, and local alerts. Privacy is ensured through secure data storage, while frequent updates bring new features like AR-guided navigation and AI-based personalized recommendations. Wanderly transforms the stress of travel planning into a seamless, enjoyable experience, ensuring every journey is memorable and well-organized.",
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 95 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 915 }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "RecipeHub - Cooking & Meal Planner",
+    "companyName": "CulinaryTech",
+    "image": "../src/assets/demo-app (6).webp",
+    "size": 55,
+    "reviews": 1320,
+    "ratingAvg": 4.6,
+    "downloads": 720000,
+    "description": "RecipeHub is the ultimate cooking companion for home chefs, culinary enthusiasts, and busy families. The app offers thousands of recipes across cuisines, dietary restrictions, and difficulty levels. Each recipe comes with step-by-step instructions, high-quality images, nutritional information, and estimated cooking time. RecipeHub includes a smart meal planner that helps users plan weekly menus, generate shopping lists, and track pantry inventory. The AI-powered recommendation engine suggests new dishes based on your preferences, seasonal ingredients, and past cooking history. Users can save favorite recipes, create custom collections, and share them with friends and family. Video tutorials, tips from professional chefs, and community forums add an educational and interactive layer. Offline access ensures that recipes are available even without internet connectivity. RecipeHub also provides calorie and macronutrient tracking for health-conscious users. With regular updates introducing trending recipes, seasonal menus, and festive dishes, RecipeHub makes cooking enjoyable, organized, and creative. Its elegant interface and intuitive navigation simplify meal preparation, whether you are a beginner or a seasoned cook.",
+    "ratings": [
+      { "name": "1 star", "count": 45 },
+      { "name": "2 star", "count": 55 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 750 }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "EcoTrack - Environment Tracker",
+    "companyName": "GreenTech Solutions",
+    "image": "https://i.ibb.co/TrkJQGZ/eco.png",
+    "size": 68,
+    "reviews": 1120,
+    "ratingAvg": 4.7,
+    "downloads": 640000,
+    "description": "EcoTrack is a sustainability and environmental awareness app designed to help users monitor and reduce their carbon footprint. It tracks energy consumption, water usage, waste production, and transportation habits, providing actionable insights and personalized suggestions for eco-friendly alternatives. Users can set sustainability goals, monitor progress through interactive dashboards, and participate in community challenges. The app integrates with smart devices to gather accurate environmental data and offers educational resources on climate change, renewable energy, and sustainable living practices. EcoTrack supports gamification, rewarding users with badges and points for eco-conscious actions. Notifications remind users to adopt greener habits and celebrate milestones to keep motivation high. Privacy is respected, and all personal data is securely stored. Regular updates include new tracking modules, partnerships with eco-friendly organizations, and community-driven features. EcoTrack empowers users to make informed choices that positively impact the environment, fostering a sense of responsibility and awareness while making sustainability accessible and actionable for everyone.",
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 630 }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "BookNest - Reading & Notes",
+    "companyName": "LitApps",
+    "image": "https://i.ibb.co/xMjsQ9m/book.png",
+    "size": 75,
+    "reviews": 1450,
+    "ratingAvg": 4.8,
+    "downloads": 850000,
+    "description": "BookNest is a comprehensive reading and note-taking app for book lovers, students, and lifelong learners. The app supports eBooks in multiple formats, audiobooks, and PDFs, allowing seamless integration of your reading materials in one place. Users can highlight passages, annotate, and take detailed notes while reading. BookNest features intelligent organization tools, enabling users to create bookshelves, categorize notes, and search text across all documents. The app’s recommendation engine suggests books based on reading habits, ratings, and interests. Social features allow users to share insights, participate in book clubs, and follow favorite authors. Reading progress tracking, personalized daily reading goals, and achievements motivate users to read consistently. Offline reading ensures accessibility without internet connection. BookNest also integrates with cloud services for backup and sync across multiple devices. Frequent updates add interactive reading experiences, discussion forums, and curated collections of classic and modern literature. BookNest turns reading into an organized, immersive, and social experience, making it perfect for anyone looking to expand knowledge and enjoy literature in a modern digital environment.",
+    "ratings": [
+      { "name": "1 star", "count": 35 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 935 }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "ChatNest - Messaging & Collaboration",
+    "companyName": "CommTech",
+    "image": "https://i.ibb.co/NZWbZVj/chat.png",
+    "size": 65,
+    "reviews": 2300,
+    "ratingAvg": 4.6,
+    "downloads": 1800000,
+    "description": "ChatNest is a modern messaging and collaboration app designed for both personal and professional communication. The app supports text, voice, and video messaging with end-to-end encryption, ensuring privacy and security. Users can create individual or group chats, share multimedia files, documents, and even location in real time. ChatNest integrates productivity tools such as task management, shared calendars, and collaborative documents, making it a complete platform for teams and communities. Advanced search capabilities allow users to quickly find messages, files, or links, while custom notifications and message pinning ensure important information is never missed. The app’s interface is sleek and user-friendly, with customizable themes and layouts for personal preference. Offline mode ensures messages are queued and delivered once the device reconnects. ChatNest also supports multi-device synchronization, so users can seamlessly switch between phones, tablets, and desktops. Regular updates improve AI-assisted responses, smart reminders, and bot integrations for enhanced collaboration. Whether for casual chatting, remote work, or team projects, ChatNest simplifies communication, keeps users organized, and enhances connectivity, making it a reliable choice for anyone looking to stay connected efficiently.",
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 650 },
+      { "name": "5 star", "count": 1350 }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "DreamNote - Sleep Tracker",
+    "companyName": "SleepWell Inc.",
+    "image": "https://i.ibb.co/Yk1Jp9s/sleep.png",
+    "size": 55,
+    "reviews": 1540,
+    "ratingAvg": 4.7,
+    "downloads": 870000,
+    "description": "DreamNote is an advanced sleep tracking and analysis app that helps users monitor sleep quality, duration, and patterns for improved health and wellness. The app integrates with wearables and smartphones to gather data on sleep stages, heart rate, breathing, and movement. Based on this data, DreamNote provides personalized recommendations, such as optimal bedtime routines, relaxation techniques, and environmental adjustments to enhance sleep quality. Users can log dreams, track mood changes, and record sleep-related habits to identify patterns that affect rest. The app also includes guided meditations, sleep sounds, and gentle alarms that wake you during light sleep phases for refreshed mornings. Analytics dashboards display trends over days, weeks, and months, allowing users to track progress and adjust routines accordingly. Privacy and security are prioritized — all data remains encrypted and locally stored unless the user opts for cloud backup. With a sleek and intuitive interface, easy navigation, and continuous updates adding new features and research-backed advice, DreamNote is ideal for anyone looking to enhance their sleep quality, reduce fatigue, and improve overall health and mental clarity.",
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 450 },
+      { "name": "5 star", "count": 880 }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "MindEase - Mental Health & Meditation",
+    "companyName": "ZenWell",
+    "image": "https://i.ibb.co/jL7H3Wr/mind.png",
+    "size": 60,
+    "reviews": 2020,
+    "ratingAvg": 4.8,
+    "downloads": 1120000,
+    "description": "MindEase is a holistic mental health and meditation app designed to help users reduce stress, improve focus, and develop mindfulness practices. The app offers guided meditation sessions, breathing exercises, and cognitive behavioral therapy (CBT) tools tailored to individual needs. MindEase includes mood tracking, daily affirmations, and personalized wellness plans to help users monitor mental health over time. Users can explore various meditation techniques, such as mindfulness, visualization, and progressive muscle relaxation. The sleep module provides soothing sounds and bedtime routines to enhance rest and recovery. MindEase’s analytics dashboards allow tracking progress, highlighting areas of improvement, and offering actionable insights for long-term mental well-being. The interface is designed to be calming, intuitive, and user-friendly. Privacy is fully respected, with all sensitive data encrypted. Regular updates bring new meditation programs, mental health tips, and interactive exercises. MindEase is suitable for beginners and experienced meditators alike, offering a safe, supportive, and structured environment for cultivating mental resilience, reducing anxiety, and enhancing overall emotional balance in everyday life.",
+    "ratings": [
+      { "name": "1 star", "count": 35 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 110 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 1335 }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "CodePro - Developer Toolkit",
+    "companyName": "DevTools Inc.",
+    "image": "https://i.ibb.co/2Pgbm3H/code.png",
+    "size": 80,
+    "reviews": 1750,
+    "ratingAvg": 4.7,
+    "downloads": 920000,
+    "description": "CodePro is an all-in-one developer toolkit designed to streamline coding, debugging, and project management for programmers of all levels. The app provides a code editor with syntax highlighting for multiple languages, integrated terminal, version control tools, and cloud syncing. CodePro includes code snippets, templates, and AI-powered autocompletion to increase efficiency. Users can manage projects, track tasks, and collaborate with team members in real time. The app supports integration with Git, GitHub, and other popular platforms, enabling seamless workflow management. CodePro also offers debugging tools, error detection, and performance analytics to identify bottlenecks and improve code quality. Tutorials, documentation, and community forums are accessible within the app to support learning and collaboration. Offline mode allows coding without internet connectivity, while automatic syncing ensures projects are always up-to-date across devices. Regular updates introduce new features, language support, and optimization improvements. With a clean and customizable interface, CodePro simplifies coding workflows, enhances productivity, and serves as a reliable companion for developers working on individual projects or collaborative software development.",
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 990 }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "BudgetWise - Expense Manager",
+    "companyName": "FinTrack Solutions",
+    "image": "https://i.ibb.co/2N7Lk1G/budget.png",
+    "size": 50,
+    "reviews": 1680,
+    "ratingAvg": 4.5,
+    "downloads": 780000,
+    "description": "BudgetWise is a comprehensive financial management app that helps users track expenses, manage budgets, and achieve financial goals. The app supports bank integration, manual expense entry, and recurring payment tracking. Users can categorize transactions, set monthly spending limits, and receive alerts when approaching limits. BudgetWise provides insightful charts and reports showing spending patterns, saving trends, and net worth growth. The app also offers goal setting for savings, debt repayment, or investment planning. Personalized recommendations help users optimize spending habits, reduce unnecessary expenses, and maximize savings. Privacy and security are prioritized with bank-level encryption and secure login options. The interface is user-friendly, with customizable dashboards and visual analytics that make financial management simple and intuitive. Regular updates include new features like bill reminders, investment calculators, and subscription trackers. BudgetWise empowers users to take control of their finances, make informed decisions, and build a sustainable financial future.",
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 450 },
+      { "name": "5 star", "count": 1020 }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "HomeSync - Smart Home Controller",
+    "companyName": "SmartLiving",
+    "image": "https://i.ibb.co/fFhHdjZ/home.png",
+    "size": 95,
+    "reviews": 2100,
+    "ratingAvg": 4.8,
+    "downloads": 1200000,
+    "description": "HomeSync is a powerful smart home control app that allows users to manage, monitor, and automate devices across their home environment. Compatible with a wide range of smart lights, thermostats, cameras, and appliances, HomeSync enables centralized control from a single app. Users can set up automated routines, such as turning on lights at sunset or adjusting temperature based on occupancy. Voice command integration allows hands-free operation, while real-time alerts notify users about security events, device status, or maintenance needs. HomeSync’s interface is designed for ease of use, featuring dashboards, device grouping, and scheduling tools. Advanced analytics provide energy consumption reports and suggestions for reducing electricity usage. The app supports multi-user access with permission management, ensuring family members or roommates can control devices safely. Privacy and security are top priorities, with encrypted data transmission and two-factor authentication. Regular updates bring new device support, enhanced automation features, and AI-driven suggestions. HomeSync makes smart home management intuitive, secure, and efficient, transforming any living space into a connected, intelligent environment.",
+    "ratings": [
+      { "name": "1 star", "count": 35 },
+      { "name": "2 star", "count": 45 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 450 },
+      { "name": "5 star", "count": 1470 }
+    ]
+  }
+
+]
