@@ -1,7 +1,7 @@
 import React from "react";
 import { Link, NavLink } from "react-router";
 import { FaGithub } from "react-icons/fa";
-import logo from "../assets/logo.png";
+import logo from "/logo.png";
 
 const Navbar = () => {
   return (
