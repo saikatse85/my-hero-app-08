@@ -4,11 +4,23 @@ import star from "/star.png";
 
 const Installation = () => {
   const [installed, setInstalled] = useState([]);
+  const [sortOrder, setSortOrder] = useState("none");
 
   useEffect(() => {
     const savedApp = JSON.parse(localStorage.getItem("installed"));
     if (savedApp) setInstalled(savedApp);
   }, []);
+
+  const sortedItem = (() => {
+    if (sortOrder === "downloads-asc") {
+      return [...installed].sort((a, b) => a.downloads - b.downloads);
+    } else if (sortOrder === "downloads-descending") {
+      return [...installed].sort((a, b) => b.downloads - a.downloads);
+    } else {
+      return installed;
+    }
+  })();
+
   return (
     <div className="bg-[#f1f5e8]">
       <div className="screen-w">
@@ -17,11 +29,19 @@ const Installation = () => {
           <p>Explore All Trending Apps on the Market developed by us</p>
         </div>
         <div className="flex justify-between pt-5">
-          <h1 className="text-2xl font-bold">({installed.length})App Found</h1>
-          <button className="btn bg-green-600 text-white">Short by Size</button>
+          <h1 className="text-2xl font-bold">({sortedItem.length})App Found</h1>
+          <select
+            className="btn bg-green-700 text-white"
+            value={sortOrder}
+            onChange={(e) => setSortOrder(e.target.value)}
+          >
+            <option value="none">Sort by size</option>
+            <option value="downloads-asc">Low to high</option>
+            <option value="downloads-descending">High to Low</option>
+          </select>
         </div>
-        {installed.map((a) => (
-          <div className="flex justify-between items-center mx-auto py-5 bg-gray-100 p-2 border-1 border-gray-200 shadow-sm my-5">
+        {sortedItem.map((a) => (
+          <div className="flex justify-between items-center mx-auto py-5 bg-gray-100 p-2 border-1 border-gray-200 shadow-sm my-5 rounded-sm">
             <div className="flex items-center gap-3">
               <div>
                 <img className="h-40 w-40 rounded-lg" src={a.image} alt="" />
@@ -42,7 +62,9 @@ const Installation = () => {
               </div>
             </div>
             <div>
-              <button className="btn bg-green-600 text-white">UnInstall</button>
+              <button className="btn bg-green-700 text-white">
+                UnInstalled
+              </button>
             </div>
           </div>
         ))}
