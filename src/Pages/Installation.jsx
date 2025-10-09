@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import download from "/download.png";
 import star from "/star.png";
+import { ToastContainer, toast } from "react-toastify";
 
 const Installation = () => {
   const [installed, setInstalled] = useState([]);
@@ -26,6 +27,15 @@ const Installation = () => {
     let updateInstalled = existingInstalled.filter((a) => a.id !== id);
     setInstalled(updateInstalled);
     localStorage.setItem("installed", JSON.stringify(updateInstalled));
+    toast.warn("🗑️ App Uninstalled Successfully!", {
+      position: "top-center",
+      autoClose: 1500,
+      hideProgressBar: false,
+      closeOnClick: true,
+      pauseOnHover: true,
+      draggable: true,
+      theme: "colored",
+    });
   };
 
   return (
@@ -79,6 +89,7 @@ const Installation = () => {
           </div>
         ))}
       </div>
+      <ToastContainer />
     </div>
   );
 };
