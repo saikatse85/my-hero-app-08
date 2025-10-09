@@ -1,16 +1,24 @@
-# React + Vite
+# App Information
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# App Name:
 
-Currently, two official plugins are available:
+Ultimate AppBuilder
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Description:
 
-## React Compiler
+Ultimate AppBuilder is a simple yet powerful web application that allows users to create, list, and manage their own applications. Users can enter app details such as name, description, and technologies used. The data is stored locally, providing a smooth and fast experience for developers who want to organize or showcase their projects easily.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+# Technologies Used:
 
-## Expanding the ESLint configuration
+React.js → For building the user interface
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+React Router → For navigation between pages
+
+useState & useEffect Hooks → For managing and updating data dynamically
+
+LocalStorage API → For saving app data persistently in the browser
+
+Tailwind CSS → For a responsive and modern design
+
+Vite → For fast development and optimized builds
+daisy Ui → For rebuilt responsive design
