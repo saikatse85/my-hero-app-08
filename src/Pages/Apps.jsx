@@ -4,7 +4,7 @@ import AppsCard from "../Components/AppsCard";
 import { FcSearch } from "react-icons/fc";
 import { Link } from "react-router";
 import SkeletonLoader from "../Components/SkeletonLoader";
-import ErrorPage from "./ErrorPage";
+import AppNotFound from "./AppNotFound";
 
 const Apps = () => {
   const { apps, loading, error } = useApps();
@@ -20,7 +20,7 @@ const Apps = () => {
   if (error) {
     return (
       <p className="text-center py-10 text-red-500">
-        Failed to load apps. Try again later.
+        <AppNotFound />
       </p>
     );
   }
@@ -51,13 +51,7 @@ const Apps = () => {
       </div>
       {searchedApps.length === 0 ? (
         <div className="text-center pb-42">
-          <ErrorPage />
-          <Link
-            to="/app"
-            className="btn bg-gradient-to-tr from-[#632EE3] to-[#9F62F2] text-white"
-          >
-            Show All
-          </Link>
+          <AppNotFound />
         </div>
       ) : (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 screen-w py-4 md:py-8 lg:py-8">

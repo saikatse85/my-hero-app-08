@@ -28,11 +28,16 @@ const AppDetails = () => {
   const handleInstalled = () => {
     const existingInstalled = JSON.parse(localStorage.getItem("installed"));
     setInstalled(true);
-    toast(`✅${title} Installed successfully`);
+    toast(`✅${title} Installed successfully`, {
+      position: "top-center",
+    });
     let updateInstalled = [];
     if (existingInstalled) {
       const isDuplicate = existingInstalled.some((a) => a.id === app.id);
-      if (isDuplicate) return toast.info("Already Installed");
+      if (isDuplicate)
+        return toast.info("Already Installed", {
+          position: "top-center",
+        });
       updateInstalled = [...existingInstalled, app];
     } else {
       updateInstalled.push(app);

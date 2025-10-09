@@ -27,7 +27,7 @@ const Installation = () => {
     let updateInstalled = existingInstalled.filter((a) => a.id !== id);
     setInstalled(updateInstalled);
     localStorage.setItem("installed", JSON.stringify(updateInstalled));
-    toast.warn("🗑️ App Uninstalled Successfully!", {
+    toast.warn(" App Uninstalled Successfully!", {
       position: "top-center",
       autoClose: 1500,
       hideProgressBar: false,
