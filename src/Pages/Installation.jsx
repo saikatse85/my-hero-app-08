@@ -21,8 +21,15 @@ const Installation = () => {
     }
   })();
 
+  const handleRemove = (id) => {
+    const existingInstalled = JSON.parse(localStorage.getItem("installed"));
+    let updateInstalled = existingInstalled.filter((a) => a.id !== id);
+    setInstalled(updateInstalled);
+    localStorage.setItem("installed", JSON.stringify(updateInstalled));
+  };
+
   return (
-    <div className="bg-[#f1f5e8]">
+    <div className="bg-[#f1f5e8] pb-80">
       <div className="screen-w">
         <div className="text-center pt-5">
           <h1 className="text-4xl font-bold pb-4">Your Installed App</h1>
@@ -62,7 +69,10 @@ const Installation = () => {
               </div>
             </div>
             <div>
-              <button className="btn bg-green-700 text-white">
+              <button
+                onClick={() => handleRemove(a.id)}
+                className="btn bg-green-700 text-white"
+              >
                 UnInstalled
               </button>
             </div>
