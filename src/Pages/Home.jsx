@@ -3,8 +3,9 @@ import useApps from "../Hooks/useApps";
 import AppsCard from "../Components/AppsCard";
 import { Link } from "react-router";
 import Banner from "../../src/assets/hero.png";
-import { FaAppStoreIos, FaGooglePlay } from "react-icons/fa";
 import SkeletonLoader from "../Components/SkeletonLoader";
+import appStore from "/appstore.png";
+import playStore from "/playStore.png";
 
 const Home = () => {
   const { apps, loading, error } = useApps();
@@ -29,15 +30,15 @@ const Home = () => {
           ideas into digital experiences that truly make an impact.
         </p>
         <div className="flex items-center justify-center pt-5 gap-4">
-          <Link>
+          <Link to="https://play.google.com/store/games?hl=en">
             <button className="btn bg-[#f1f5e8] border-1 border-gray-300">
-              <FaGooglePlay />
+              <img src={appStore} alt="" />
               Google Play
             </button>
           </Link>
-          <Link>
+          <Link to="https://play.google.com/store/apps?hl=en">
             <button className="btn bg-[#f1f5e8] border-1 border-gray-300">
-              <FaAppStoreIos />
+              <img src={playStore} alt="" />
               App Store
             </button>
           </Link>

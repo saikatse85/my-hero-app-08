@@ -58,10 +58,13 @@ const Installation = () => {
           </select>
         </div>
         {sortedItem.map((a) => (
-          <div className="flex justify-between items-center mx-auto py-5 bg-gray-100 p-2 border-1 border-gray-200 shadow-sm my-5 rounded-sm">
+          <div
+            key={a.id}
+            className="flex justify-between items-center mx-auto py-5 bg-gray-100 p-2 border-1 border-gray-200 shadow-sm my-5 rounded-sm"
+          >
             <div className="flex items-center gap-3">
               <div>
-                <img className="h-40 w-40 rounded-lg" src={a.image} alt="" />
+                <img className="h-30 w-30 rounded-lg" src={a.image} alt="" />
               </div>
               <div className="space-y-8">
                 <h3 className="text-2xl">{a.title}</h3>

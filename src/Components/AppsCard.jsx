@@ -11,7 +11,7 @@ const AppsCard = ({ app }) => {
       <Link to={`/app/${id}`}>
         <div className="card bg-base-100 shadow-sm hover:scale-105 transition ease-in-out">
           <figure>
-            <img src={image} alt="App" />
+            <img className="rounded-lg mt-2" src={image} alt="App" />
           </figure>
           <div className="card-body">
             <div className="card-title">{title}</div>

@@ -97,7 +97,7 @@ const Navbar = () => {
         </div>
         <div className="navbar-end">
           <Link
-            to="https://github.com/programminghero1"
+            to="https://github.com/saikatse85/my-hero-app-08"
             className="btn bg-gradient-to-tr from-[#632EE3] to-[#9F62F2] text-white"
           >
             <FaGithub />
